@@ -1,0 +1,13 @@
+
+.d-flex{
+    position: absolute;
+    right: 130px;
+}
+
+/* Hide navbar when screen width is less than 768px */
+/* @media screen and (max-width: 1208px) {
+    .sidebar {
+        display: none !important;
+    }
+  } */
+  
